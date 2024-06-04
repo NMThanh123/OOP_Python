@@ -40,3 +40,6 @@ class Solution:
     
 result = Solution(strs) 
 print(result.solve())
+
+# Thành B code
+print("Hello Thành A")
