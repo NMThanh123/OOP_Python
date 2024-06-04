@@ -43,3 +43,5 @@ print(result.solve())
 
 # Thanh A code
 print("Hello Thanh B")
+# Thành B code
+print("Hello Thành A")
