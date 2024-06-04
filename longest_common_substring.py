@@ -45,3 +45,6 @@ print(result.solve())
 print("Hello Thanh B")
 # Thanh B code
 print("Hello Thanh A")
+
+# new code from thanh A
+print("Hello Thanh B. How are you?")
