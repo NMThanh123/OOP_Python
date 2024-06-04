@@ -47,4 +47,4 @@ print("Hello Thanh B")
 print("Hello Thanh A")
 
 # new code from thanh A
-print("Hello Thanh B. How are you?")
+print("Hello Thanh B. How are you? I want to meet you.")
